@@ -1,0 +1,45 @@
+body {
+    padding: 0px;
+}
+
+h1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: royalblue;
+    margin: 0px 190px 0px 190px;
+    border: 10px solid gold;
+    padding: 5px;
+}
+
+main p {
+    color: blue;
+    padding: 30px 0px 20px 0px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    margin: auto;
+    border: 0;
+}
+
+
+.recipes-main a {
+    text-decoration: none;
+    color: red;
+}
+
+main ol li {
+    list-style-type: none;
+}
+
+main img {
+    margin: 0px 0px 0px 350px;
+}
+
+.odin img {
+    max-width: 10%;
+    height: auto;
+    padding: 0px;
+}
+
+.odin p {
+    font-size: x-small;
+}
